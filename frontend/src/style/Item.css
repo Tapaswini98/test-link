@@ -1,0 +1,53 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .searchInput {
+    width: 100%;
+    padding: 8px 12px;
+    margin-bottom: 25px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+  
+  .listItem {
+    padding: 10px;
+    border-bottom: 1px solid #eee;
+  }
+  
+  .listItem a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  .listItem a:hover {
+    text-decoration: underline;
+  }
+  
+  .pagination {
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .pagination button {
+    padding: 6px 12px;
+    border: none;
+    border-radius: 4px;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+    font-size: 14px;
+  }
+  
+  .pagination button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+  }
+  

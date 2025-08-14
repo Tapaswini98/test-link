@@ -1,0 +1,17 @@
+[
+  { "id": 1, "name": "Laptop Pro", "category": "Electronics", "price": 2499 },
+  { "id": 2, "name": "Noise Cancelling Headphones", "category": "Electronics", "price": 399 },
+  { "id": 3, "name": "Ultra‑Wide Monitor", "category": "Electronics", "price": 999 },
+  { "id": 4, "name": "Ergonomic Chair", "category": "Furniture", "price": 799 },
+  { "id": 5, "name": "Standing Desk", "category": "Furniture", "price": 1199 },
+  { "id": 6, "name": "Mechanical Keyboard", "category": "Electronics", "price": 199 },
+  { "id": 7, "name": "Smartphone XL", "category": "Electronics", "price": 1099 },
+  { "id": 8, "name": "Desk Lamp", "category": "Furniture", "price": 89 },
+  { "id": 9, "name": "Coffee Table", "category": "Furniture", "price": 249 },
+  { "id": 10, "name": "Fitness Tracker", "category": "Wearables", "price": 149 },
+  { "id": 11, "name": "Wireless Mouse", "category": "Electronics", "price": 59 },
+  { "id": 12, "name": "Smartwatch Series 5", "category": "Wearables", "price": 399 },
+  { "id": 13, "name": "Bookshelf", "category": "Furniture", "price": 349 },
+  { "id": 14, "name": "4K Action Camera", "category": "Electronics", "price": 299 },
+  { "id": 15, "name": "Gaming Chair", "category": "Furniture", "price": 699 }
+]
